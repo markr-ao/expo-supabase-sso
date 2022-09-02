@@ -4,6 +4,7 @@
     "slug": "expo-supabase-sso",
     "version": "1.0.0",
     "owner": "markr-ao",
+    "scheme": "myscheme",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
