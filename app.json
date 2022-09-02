@@ -3,6 +3,7 @@
     "name": "expo-supabase-sso",
     "slug": "expo-supabase-sso",
     "version": "1.0.0",
+    "owner": "markr-ao",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
